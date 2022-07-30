@@ -52,24 +52,24 @@ global.sdc = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN'
 global.snh = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN'
 
 /*============== PAYMENT ==============*/
-global.pdana = '089515023118'
-global.povo = '089515023118'
-global.pgopay = '089515023118'
-global.ppulsa = '0895413767627'
-global.ppulsa2 = '088991489057'
-global.psaweria = 'https://saweria.com/DonateBot'
+global.pdana = '089505329516'
+global.povo = '089505329516'
+global.pgopay = '089505329516'
+global.ppulsa = '089505329516'
+global.ppulsa2 = '089505329516'
+global.psaweria = 'https://saweria.co/DinginCuy'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62895413767627'
-global.nomorown = '17242332244'
+global.nomorbot = '08988240348'
+global.nomorown = '089505329516'
 global.namebot = 'CekilXD'
 global.nameown = 'CekilXD'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['17242332244', 'Sewa Bot', true],
-  ['17242332244', 'Owner Gweh', true] //Ganti jd nomormu sama Namamu
+  ['6289505329516', 'Sewa Bot', true],
+  ['6289505329516', 'Owner Gweh', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
